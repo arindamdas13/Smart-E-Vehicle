@@ -1,0 +1,4 @@
+The Self Driving Car project is under development. The codes and the other important documents are not shared publicly before the full development.
+
+This Seld Driving car is unique car with Artificial Intelligence to detect the lanes of the road with the help of the camera installed on the car. 
+It can detect the traffic signs and signals and run accordingly by following the traffic rules. 
